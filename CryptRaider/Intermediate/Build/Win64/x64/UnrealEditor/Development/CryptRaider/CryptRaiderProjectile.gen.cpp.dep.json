@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\suran\\documents\\unreal projects\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\cryptraiderprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\suran\\documents\\unreal projects\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraidereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\suran\\documents\\unreal projects\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\users\\suran\\documents\\unreal projects\\cryptraider\\cryptraider\\source\\cryptraider\\cryptraiderprojectile.h",
+            "c:\\users\\suran\\documents\\unreal projects\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealeditor\\inc\\cryptraider\\uht\\cryptraiderprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
